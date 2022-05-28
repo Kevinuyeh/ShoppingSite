@@ -36,7 +36,7 @@ $(document).ready(function() {
         nav:true,
         dots:false,
         autoplay:true,
-        autoplayTimeout:8000,
+        autoplayTimeout:4000,
         loop:true,
     })
 
